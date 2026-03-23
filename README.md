@@ -40,3 +40,6 @@ Two tables used in this project:
 - *COD* is the most preferred payment mode at 44%
 - *Printers* generate the highest sub-category profit
 - *Maharashtra* leads in state
+
+- ## Author
+- Keerthana amin
